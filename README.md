@@ -4,9 +4,9 @@ Slides for the talk given at [microXchg 2019](http://microxchg.io/2019/index.htm
 
 View the slides here: [Slides](https://merelyanna.github.io/microXchg-JSbackends/)
 
-Talk was given together by Christina Zenzes and Anna Backs.
-Find Christina on twitter: [merelyChristina](https://twitter.com/merelyChristina).
-Find Anna on twitter: [merelyAnna](https://twitter.com/merelyAnna).
+Talk was given together by Christina Zenzes and Anna Backs.<br/>
+Find Christina on twitter: [merelyChristina](https://twitter.com/merelyChristina)<br/>
+Find Anna on twitter: [merelyAnna](https://twitter.com/merelyAnna)<br/>
 
 
 When thinking of backend languages, JavaScript is not the first thing that comes to mind. But why not? Why not write a backend in JavaScript? Or even a whole microservices infrastructure!
